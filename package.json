@@ -1,6 +1,6 @@
 {
   "name": "redux-middleware-oneshot",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create a middleware",
   "main": "lib/index.js",
   "scripts": {
