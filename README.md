@@ -5,6 +5,7 @@
 [![npm version](https://img.shields.io/npm/v/redux-middleware-oneshot.svg?style=flat-square)](https://www.npmjs.com/package/redux-middleware-oneshot)
 [![npm downloads](https://img.shields.io/npm/dm/redux-middleware-oneshot.svg?style=flat-square)](https://www.npmjs.com/package/redux-middleware-oneshot)
 [![Code Climate](https://codeclimate.com/github/michaelcontento/redux-middleware-oneshot/badges/gpa.svg)](https://codeclimate.com/github/michaelcontento/redux-middleware-oneshot)
+[![build](https://travis-ci.org/michaelcontento/redux-middleware-oneshot.svg)](https://travis-ci.org/michaelcontento/redux-middleware-oneshot)
 
 Create [Redux][] actions from arbitraty sources out of middlewares.
 
